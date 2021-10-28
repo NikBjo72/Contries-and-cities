@@ -1,0 +1,62 @@
+#sideBar{
+    background-color: black;
+    color: white;
+}
+
+#header{
+    text-align: center;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+#countryBtn, #visitedCitiesBtn{
+    padding: 0.5rem;
+}
+
+li{
+    list-style-type: none;
+}
+
+.form-check{
+    margin-left: 1rem;
+}
+
+h4{
+    text-align: left;
+    margin-left: 1rem;
+}
+
+h5{
+    text-align: left;
+    margin-left: 1rem;
+}
+
+#readMoreBtn{
+    margin-left: 1rem;
+    font-size: 0.7rem;
+    padding-top: 0.1rem;
+    padding-bottom: 0.1rem;
+}
+
+.card{
+    margin-bottom: 1rem;
+}
+
+#residents{
+    margin-left: 1rem;
+    font-style: italic;
+}
+
+#clearHistoryBtn{
+    padding: 2rem;
+}
+
+#visitedCities{
+    padding: 1.1rem;
+}
+
+#kuriosaBtn{
+    font-size: 0.7rem;
+    padding-top: 0.1rem;
+    padding-bottom: 0.1rem;
+}
