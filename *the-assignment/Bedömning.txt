@@ -1,0 +1,10 @@
+Snyggt jobbat!
+Alla krav är uppfyllda och applikationen fungerar som det ska. Och det är jättebra att du ser fördelen med planering. 
+
+Även fast du la ner massa tid på att planera så var du en av de första som blev färdig. Kanon! Jag hinner inte gå in på djupet i koden utan jag skummade mes igenom den. Och det ser bra ut. 
+
+Som du skriver blir det lite svårt att läsa ibland men ändå inte så farligt. De småsaker jag hittade är mest att du behöver sällan kolla om något är "null" eller "false". 
+Allting i Javascript har ett "truthy" eller "falsy" värde. Så det räcker med att kolla variabeln... T.ex if (erase) kollar om erase är true if (!erase) kollar om erase är false Null resulterar också i false osv... 
+Hittade även en liten bugg. Om ett stadnamn har mellanslag i sig, t.ex New York så fungerar det inte att visa antalet invånare =) 
+
+Allt som allt, väldigt bra jobbat och självklart full pott! 
